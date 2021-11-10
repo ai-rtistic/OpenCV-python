@@ -9,3 +9,4 @@
 |21.10.12|문준형|기초예제|Basic example|[:link:](https://github.com/jaejunlee96/OpenCV-python/blob/main/opencv-python/Ch4_Basic_Example.ipynb)|
 |21.10.26|문준형|이미지 변환|Image Conversion|[:link:](https://github.com/jaejunlee96/OpenCV-python/blob/main/opencv-python/Ch5_Image_Conversion_1.ipynb) [:link:](https://github.com/jaejunlee96/OpenCV-python/blob/main/opencv-python/Ch5_Image_Conversion_2.ipynb)|
 |21.11.02|이재준, 신지혜|이미지 변형|Image Transformation|[:link:](https://github.com/jaejunlee96/OpenCV-python/blob/main/opencv-python/Ch6_Image_Transformation_1.ipynb) [:link:](https://github.com/jaejunlee96/OpenCV-python/blob/main/opencv-python/Ch6_Image_Transformation_2.ipynb)|
+|21.11.10|김경준|이미지 검출|Image Detection||
